@@ -19,3 +19,4 @@ generateBtn.addEventListener("click", writePassword);
   }
 
   return newPassword;
+}
